@@ -1,0 +1,33 @@
+/* MC custom cursor — visible, premium and compatible */
+@media (pointer:fine) and (prefers-reduced-motion:no-preference){
+  html,body,*{cursor:none!important}
+  .mc-cursor-dot,.mc-cursor-ring{
+    position:fixed;
+    left:0;top:0;
+    pointer-events:none;
+    z-index:10000;
+    display:block;
+    opacity:1;
+    transform:translate3d(-100px,-100px,0);
+  }
+  .mc-cursor-dot{
+    width:8px;height:8px;
+    margin:-4px 0 0 -4px;
+    border-radius:50%;
+    background:#e30613;
+    box-shadow:0 0 14px rgba(227,6,19,.9),0 0 30px rgba(227,6,19,.35);
+    transition:width .2s ease,height .2s ease,margin .2s ease,background .2s ease;
+  }
+  .mc-cursor-ring{
+    width:38px;height:38px;
+    margin:0;
+    border:1px solid rgba(227,6,19,.75);
+    border-radius:50%;
+    background:rgba(227,6,19,.035);
+    box-shadow:0 0 20px rgba(227,6,19,.12),inset 0 0 16px rgba(227,6,19,.04);
+    transition:width .25s ease,height .25s ease,margin .25s ease,border-color .25s ease,background .25s ease,box-shadow .25s ease;
+  }
+  .mc-cursor-dot.is-hover{width:5px;height:5px;margin:-2.5px 0 0 -2.5px}
+  .mc-cursor-ring.is-hover{width:58px;height:58px;margin:-10px 0 0 -10px;border-color:#e30613;background:rgba(227,6,19,.08);box-shadow:0 0 32px rgba(227,6,19,.28)}
+  .mc-cursor-ring.is-down{width:31px;height:31px;margin:3.5px 0 0 3.5px;background:rgba(227,6,19,.18)}
+}

@@ -9,6 +9,21 @@
   .mc-cursor-ring.is-down{width:30px;height:30px;margin:-15px 0 0 -15px;background:rgba(227,6,19,.2)}
 }
 @media (pointer:coarse){.mc-cursor-dot,.mc-cursor-ring{display:none!important}}
-/* Disable the experimental mega-menu overlay that caused the project-section overlap */
+
+/* Remove the old experimental mega-menu visual layer. */
 #mcMega{display:none!important;visibility:hidden!important;opacity:0!important;pointer-events:none!important}
 .mc-menu-trigger:after{display:none!important}
+
+/* Interactive Club Lecture simulation inside the project modal. */
+.modal-club-ui aside{display:flex;flex-direction:column;gap:5px}
+.modal-club-ui .sim-tab{appearance:none;border:0;background:transparent;color:inherit;text-align:left;font:inherit;padding:9px 10px;border-radius:8px;cursor:pointer;opacity:.62;transition:.2s ease}
+.modal-club-ui .sim-tab:hover,.modal-club-ui .sim-tab.active{opacity:1;background:rgba(255,255,255,.06)}
+.modal-club-ui .sim-tab.active{box-shadow:inset 2px 0 0 var(--red)}
+.session-sim>div,.member-sim>div{display:grid;grid-template-columns:1fr auto;gap:4px 14px;padding:11px 0;border-bottom:1px solid rgba(255,255,255,.08)}
+.session-sim>div:last-child,.member-sim>div:last-child{border-bottom:0}
+.session-sim span,.member-sim span{opacity:.55;font-size:.78rem}
+.session-sim em{font-style:normal;color:var(--red);font-size:.72rem;grid-column:2}
+.member-sim span{grid-column:2}
+.modal-actions{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-top:24px;padding-top:20px;border-top:1px solid rgba(255,255,255,.1)}
+.modal-actions .btn{display:inline-flex;align-items:center;gap:12px;text-decoration:none}
+.modal-demo-note{font-size:12px;opacity:.55;letter-spacing:.04em}

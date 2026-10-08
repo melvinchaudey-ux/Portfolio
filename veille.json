@@ -1,0 +1,18 @@
+{
+  "updated_at": "2026-10-08T10:10:50.683Z",
+  "articles": [],
+  "sources": [
+    {
+      "name": "Cisco Security",
+      "url": "https://sec.cloudapps.cisco.com/security/center/rss.x?i=44"
+    },
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/rss-feeds/"
+    },
+    {
+      "name": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/"
+    }
+  ]
+}

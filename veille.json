@@ -1,6 +1,91 @@
 {
-  "updated_at": "2026-10-08T10:10:50.683Z",
-  "articles": [],
+  "updated_at": "2026-10-09T13:21:26.438946+00:00",
+  "articles": [
+    {
+      "source": "Cisco Security",
+      "title": "Cisco NX-OS Software NX-API Remote Code Execution Vulnerability",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-napi-rce-r2shwu2j?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20NX-OS%20Software%20NX-API%20Remote%20Code%20Execution%20Vulnerability%26vs_k=1",
+      "description": "<p>A vulnerability in the NX-API feature of Cisco NX-OS Software could allow an unauthenticated, remote attacker to execute arbitrary code with <em>root</em> privileges or cause a denial of service (DoS) condition on an ",
+      "date": "2026-10-08 14:11:23.0"
+    },
+    {
+      "source": "Cisco Security",
+      "title": "Cisco Meraki Security Hardening Release: October 2026",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-meraki-os-drbEX9GH?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Meraki%20Security%20Hardening%20Release:%20October%202026%26vs_k=1",
+      "description": "<p>As part of Cisco's ongoing commitment to proactive security and product quality, engineering teams conducted a comprehensive internal security review. This review resulted in software hardening releases that address m",
+      "date": "2026-10-08 00:18:38.0"
+    },
+    {
+      "source": "Cisco Security",
+      "title": "Cisco Advance Notification for Publication of October 7, 2026, Security Advisories",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-notice-fBn58ELx?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Advance%20Notification%20for%20Publication%20of%20October%207,%202026,%20Security%20Advisories%26vs_k=1",
+      "description": "<p>On October 7, 2026, the Cisco Product Security Incident Response Team (PSIRT) published the advisories that are listed in the following tables.</p>\n<p>To remediate the vulnerabilities that were disclosed on October 7,",
+      "date": "2026-10-07 16:00:41.0"
+    },
+    {
+      "source": "Cisco Security",
+      "title": "Cisco NX-OS Software Python Sandbox Escape Vulnerability",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-mppe-dhKZAFgb?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20NX-OS%20Software%20Python%20Sandbox%20Escape%20Vulnerability%26vs_k=1",
+      "description": "<p>A vulnerability in the Python interpreter of Cisco NX-OS Software could allow an authenticated, local attacker with low privileges to escape the Python sandbox and gain unauthorized access to the underlying operating ",
+      "date": "2026-10-07 16:00:00.0"
+    },
+    {
+      "source": "Cisco Security",
+      "title": "Cisco Finesse Server-Side Request Forgery Vulnerability",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-finesse-ssrf-mmSuyugS?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Finesse%20Server-Side%20Request%20Forgery%20Vulnerability%26vs_k=1",
+      "description": "<p>A vulnerability in the web-based management interface of Cisco Finesse could allow an unauthenticated, remote attacker to conduct server-side request forgery (SSRF) attacks through an affected device.</p>\n<p>This vuln",
+      "date": "2026-10-07 16:00:00.0"
+    },
+    {
+      "source": "Cisco Security",
+      "title": "Cisco Nexus 3000 and 9000 Series Switches MPLS OAM Remote Code Execution Vulnerability",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-moam-rce-uBTzYV7?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Nexus%203000%20and%209000%20Series%20Switches%20MPLS%20OAM%20Remote%20Code%20Execution%20Vulnerability%26vs_k=1",
+      "description": "<p>A vulnerability in the MPLS Operation, Administration, and Maintenance (OAM) feature of Cisco NX-OS Software for Cisco Nexus 3000 Series Switches and Cisco Nexus 9000 Series Switches could allow an unauthenticated, re",
+      "date": "2026-10-07 16:00:00.0"
+    },
+    {
+      "source": "Cisco Security",
+      "title": "Cisco Application Policy Infrastructure Controller Unauthorized File Access Vulnerability",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apic-info-priv-enAdB5vD?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Application%20Policy%20Infrastructure%20Controller%20Unauthorized%20File%20Access%20Vulnerability%26vs_k=1",
+      "description": "<p>A vulnerability in the export policies functionality of Cisco Application Policy Infrastructure Controller (APIC) could allow an authenticated, remote attacker to access sensitive files on an affected device. <span cl",
+      "date": "2026-10-07 16:00:00.0"
+    },
+    {
+      "source": "Cisco Security",
+      "title": "Cisco Application Policy Infrastructure Controller API Command Injection Vulnerability",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apic-cmdinj-L6VR4E7?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Application%20Policy%20Infrastructure%20Controller%20API%20Command%20Injection%20Vulnerability%26vs_k=1",
+      "description": "<p>A vulnerability in the web-based management API for Cisco Application Policy Infrastructure Controller (APIC) could allow an authenticated, remote attacker to execute arbitrary commands as the <em>root</em> user. To e",
+      "date": "2026-10-07 16:00:00.0"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+      "description": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
+      "date": "Fri, 09 Oct 2026 08:32:16 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
+      "description": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
+      "date": "Fri, 09 Oct 2026 07:14:28 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
+      "description": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
+      "date": "Fri, 09 Oct 2026 06:12:24 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+      "description": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
+      "date": "Fri, 09 Oct 2026 04:27:42 -0400"
+    }
+  ],
   "sources": [
     {
       "name": "Cisco Security",

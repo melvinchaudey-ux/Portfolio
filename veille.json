@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T13:21:26.438946+00:00",
+  "updated_at": "2026-10-10T12:36:12.104442+00:00",
   "articles": [
     {
       "source": "Cisco Security",
@@ -59,31 +59,31 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "description": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-      "date": "Fri, 09 Oct 2026 08:32:16 -0400"
+      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+      "description": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discov",
+      "date": "Sat, 10 Oct 2026 08:30:39 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-      "description": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
-      "date": "Fri, 09 Oct 2026 07:14:28 -0400"
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "description": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+      "date": "Fri, 09 Oct 2026 16:31:37 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-      "description": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
-      "date": "Fri, 09 Oct 2026 06:12:24 -0400"
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "description": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+      "date": "Fri, 09 Oct 2026 13:17:23 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "description": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
-      "date": "Fri, 09 Oct 2026 04:27:42 -0400"
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "description": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
+      "date": "Fri, 09 Oct 2026 13:02:29 -0400"
     }
   ],
   "sources": [

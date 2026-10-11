@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T12:36:12.104442+00:00",
+  "updated_at": "2026-10-11T12:54:41.008161+00:00",
   "articles": [
     {
       "source": "Cisco Security",
@@ -59,6 +59,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "description": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacki",
+      "date": "Sat, 10 Oct 2026 11:07:54 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "description": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
+      "date": "Sat, 10 Oct 2026 10:16:17 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
       "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
       "description": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discov",
@@ -70,20 +84,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
       "description": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
       "date": "Fri, 09 Oct 2026 16:31:37 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-      "description": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
-      "date": "Fri, 09 Oct 2026 13:17:23 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "description": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-      "date": "Fri, 09 Oct 2026 13:02:29 -0400"
     }
   ],
   "sources": [

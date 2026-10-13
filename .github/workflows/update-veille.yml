@@ -1,5 +1,9 @@
 name: Mise a jour veille technologique
 on:
+  push:
+    paths:
+      - 'CV_Melvin_Chaudey.docx'
+      - '.github/workflows/update-veille.yml'
   schedule:
     - cron: "15 6 * * *"
   workflow_dispatch:

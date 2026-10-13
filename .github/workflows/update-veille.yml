@@ -10,6 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Générer le CV PDF
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libreoffice
+          mkdir -p /tmp/cv-pdf
+          libreoffice --headless --convert-to pdf --outdir /tmp/cv-pdf CV_Melvin_Chaudey.docx
+          cp /tmp/cv-pdf/CV_Melvin_Chaudey.pdf ./CV_Melvin_Chaudey.pdf
       - name: Construire le flux
         run: |
           python - <<'PY'
@@ -62,5 +69,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add veille.json
+          git add veille.json CV_Melvin_Chaudey.pdf
           git diff --cached --quiet || (git commit -m "chore: update veille technologique" && git push)

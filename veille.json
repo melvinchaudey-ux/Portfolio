@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:31:32.755558+00:00",
+  "updated_at": "2026-10-13T08:31:55.083097+00:00",
   "articles": [
     {
       "source": "Cisco Security",
@@ -59,31 +59,31 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "description": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-      "date": "Mon, 12 Oct 2026 11:23:34 -0400"
+      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+      "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+      "description": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. ",
+      "date": "Mon, 12 Oct 2026 16:13:52 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-      "description": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, ",
-      "date": "Mon, 12 Oct 2026 10:00:10 -0400"
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "description": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
+      "date": "Mon, 12 Oct 2026 15:23:01 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-      "description": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
-      "date": "Mon, 12 Oct 2026 09:51:07 -0400"
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "description": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local ",
+      "date": "Mon, 12 Oct 2026 14:51:59 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "GitLab warns of max severity code execution vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-      "description": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
-      "date": "Mon, 12 Oct 2026 09:09:09 -0400"
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "description": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
+      "date": "Mon, 12 Oct 2026 12:27:23 -0400"
     }
   ],
   "sources": [

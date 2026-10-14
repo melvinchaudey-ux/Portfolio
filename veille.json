@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-13T14:16:36.012988+00:00",
+  "updated_at": "2026-10-14T11:58:32.794944+00:00",
   "articles": [
+    {
+      "source": "Cisco Security",
+      "title": "Cisco UCS and UCS-Based Appliances UEFI Shell Secure Boot Bypass Vulnerability",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucs-uefi-sb-bypass-eb6xC5GW?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20UCS%20and%20UCS-Based%20Appliances%20UEFI%20Shell%20Secure%20Boot%20Bypass%20Vulnerability%26vs_k=1",
+      "description": "<p>A vulnerability in the Unified Extensible Firmware Interface (UEFI) Shell implementation of Cisco UCS Servers and UCS-based appliances could allow an authenticated attacker with valid credentials for a user account wi",
+      "date": "2026-10-13 21:05:13.0"
+    },
     {
       "source": "Cisco Security",
       "title": "Cisco NX-OS Software NX-API Remote Code Execution Vulnerability",
@@ -51,39 +58,32 @@
       "date": "2026-10-07 16:00:00.0"
     },
     {
-      "source": "Cisco Security",
-      "title": "Cisco Application Policy Infrastructure Controller API Command Injection Vulnerability",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apic-cmdinj-L6VR4E7?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Application%20Policy%20Infrastructure%20Controller%20API%20Command%20Injection%20Vulnerability%26vs_k=1",
-      "description": "<p>A vulnerability in the web-based management API for Cisco Application Policy Infrastructure Controller (APIC) could allow an authenticated, remote attacker to execute arbitrary commands as the <em>root</em> user. To e",
-      "date": "2026-10-07 16:00:00.0"
+      "source": "BleepingComputer",
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "description": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+      "date": "Wed, 14 Oct 2026 07:41:20 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "The MFA Gaps Attackers are Still Exploiting",
-      "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-      "description": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough an",
-      "date": "Tue, 13 Oct 2026 10:01:11 -0400"
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "description": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+      "date": "Wed, 14 Oct 2026 06:48:09 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-      "description": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
-      "date": "Tue, 13 Oct 2026 09:51:02 -0400"
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "description": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+      "date": "Tue, 13 Oct 2026 18:33:02 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "description": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. ",
-      "date": "Mon, 12 Oct 2026 16:13:52 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "description": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
-      "date": "Mon, 12 Oct 2026 15:23:01 -0400"
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "description": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+      "date": "Tue, 13 Oct 2026 17:33:26 -0400"
     }
   ],
   "sources": [

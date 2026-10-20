@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T13:23:04.212367+00:00",
+  "updated_at": "2026-10-20T11:42:46.002733+00:00",
   "articles": [
     {
       "source": "Cisco Security",
@@ -59,31 +59,31 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-      "description": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
-      "date": "Mon, 19 Oct 2026 08:44:44 -0400"
+      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+      "description": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
+      "date": "Tue, 20 Oct 2026 07:31:22 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-      "description": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
-      "date": "Mon, 19 Oct 2026 04:58:41 -0400"
+      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+      "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
+      "description": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
+      "date": "Tue, 20 Oct 2026 07:18:35 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "description": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
-      "date": "Sun, 18 Oct 2026 10:23:16 -0400"
+      "title": "Revolut outage disrupts online banking operations worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+      "description": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
+      "date": "Tue, 20 Oct 2026 05:46:44 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "description": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
-      "date": "Sat, 17 Oct 2026 11:18:51 -0400"
+      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+      "description": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
+      "date": "Mon, 19 Oct 2026 17:49:48 -0400"
     }
   ],
   "sources": [

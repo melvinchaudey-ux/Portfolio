@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-10-23T13:10:31.345170+00:00",
+  "updated_at": "2026-10-24T11:06:23.555098+00:00",
   "articles": [
     {
       "source": "Cisco Security",
       "title": "Vulnerabilities in PHP Affecting Cisco Products: October 2026",
       "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-php-october26-Jj384Daq?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Vulnerabilities%20in%20PHP%20Affecting%20Cisco%20Products:%20October%202026%26vs_k=1",
       "description": "<p>On October 21, the PHP Foundation announced the availability of a Critical PHP Security release addressing two critical vulnerabilities:&nbsp;</p>\n<ul>\n<li>CVE-2026-109618 - RCE via OOM corruption</li>\n<li>CVE-2026-10",
-      "date": "2026-10-22 23:00:35.0"
+      "date": "2026-10-23 22:39:09.0"
+    },
+    {
+      "source": "Cisco Security",
+      "title": "Cisco Informational for Emergency Distrust of eMudhra Root and Intermediate Certificate Authorities",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-emudhra-info-ScS22A1r?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Informational%20for%20Emergency%20Distrust%20of%20eMudhra%20Root%20and%20Intermediate%20Certificate%20Authorities%26vs_k=1",
+      "description": "<p>Between October 17 and October 20, 2026, a critical security compromise involving Certificate Authorities that are managed by&nbsp;<strong>eMudhra</strong> was uncovered.</p>\n<p>A security researcher demonstrated that",
+      "date": "2026-10-23 16:00:00.0"
     },
     {
       "source": "Cisco Security",
@@ -51,39 +58,32 @@
       "date": "2026-10-22 19:03:25.0"
     },
     {
-      "source": "Cisco Security",
-      "title": "Cisco Advance Notification for Publication of October 21, 2026, Security Advisories",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-notice-QGwHnJ6k?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Advance%20Notification%20for%20Publication%20of%20October%2021,%202026,%20Security%20Advisories%26vs_k=1",
-      "description": "<p>On October 21, 2026, the Cisco Product Security Incident Response Team (PSIRT) published the following advisories.</p>\n<p>To remediate the vulnerabilities that were disclosed on October 21, 2026, Cisco strongly recomm",
-      "date": "2026-10-21 16:09:19.0"
+      "source": "BleepingComputer",
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "description": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with",
+      "date": "Fri, 23 Oct 2026 16:55:05 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "description": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
-      "date": "Fri, 23 Oct 2026 08:48:00 -0400"
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "description": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+      "date": "Fri, 23 Oct 2026 14:54:41 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "description": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-      "date": "Thu, 22 Oct 2026 17:25:31 -0400"
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "description": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+      "date": "Fri, 23 Oct 2026 13:05:07 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "description": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
-      "date": "Thu, 22 Oct 2026 16:22:45 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "description": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-      "date": "Thu, 22 Oct 2026 15:12:51 -0400"
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "description": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+      "date": "Fri, 23 Oct 2026 12:40:07 -0400"
     }
   ],
   "sources": [

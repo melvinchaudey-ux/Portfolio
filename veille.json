@@ -1,19 +1,40 @@
 {
-  "updated_at": "2026-10-27T12:17:05.471420+00:00",
+  "updated_at": "2026-10-28T13:00:08.055208+00:00",
   "articles": [
     {
       "source": "Cisco Security",
-      "title": "Cisco Informational for Emergency Distrust of eMudhra Root and Intermediate Certificate Authorities",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-emudhra-info-ScS22A1r?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Informational%20for%20Emergency%20Distrust%20of%20eMudhra%20Root%20and%20Intermediate%20Certificate%20Authorities%26vs_k=1",
-      "description": "<p>Between October 17 and October 20, 2026, a critical security compromise involving Certificate Authorities that are managed by&nbsp;<strong>eMudhra</strong> was uncovered.</p>\n<p>A security researcher demonstrated that",
-      "date": "2026-10-26 20:34:19.0"
+      "title": "Vulnerabilities in node.js Affecting Cisco Products: October 2026",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-oct2026-node-js-Jj3SQ19u?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Vulnerabilities%20in%20node.js%20Affecting%20Cisco%20Products:%20October%202026%26vs_k=1",
+      "description": "<p>On October 21, 2026, Node.js announced the availability of fixes for multiple vulnerabilities across the following supported release lines: 22.x, 24.x, and 26.x.&nbsp;</p>\n<p>These vulnerabilities impact critical oper",
+      "date": "2026-10-27 21:30:00.0"
     },
     {
       "source": "Cisco Security",
       "title": "Vulnerabilities in PHP Affecting Cisco Products: October 2026",
       "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-php-october26-Jj384Daq?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Vulnerabilities%20in%20PHP%20Affecting%20Cisco%20Products:%20October%202026%26vs_k=1",
       "description": "<p>On October 21, the PHP Foundation announced the availability of a Critical PHP Security release addressing two critical vulnerabilities:&nbsp;</p>\n<ul>\n<li>CVE-2026-109618 - RCE via OOM corruption</li>\n<li>CVE-2026-10",
-      "date": "2026-10-26 20:00:23.0"
+      "date": "2026-10-27 20:49:14.0"
+    },
+    {
+      "source": "Cisco Security",
+      "title": "Cisco Informational for Emergency Distrust of eMudhra Root and Intermediate Certificate Authorities",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-emudhra-info-ScS22A1r?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Informational%20for%20Emergency%20Distrust%20of%20eMudhra%20Root%20and%20Intermediate%20Certificate%20Authorities%26vs_k=1",
+      "description": "<p>Between October 17 and October 20, 2026, a critical security compromise involving Certificate Authorities that are managed by&nbsp;<strong>eMudhra</strong> was uncovered.</p>\n<p>A security researcher demonstrated that",
+      "date": "2026-10-27 18:08:01.0"
+    },
+    {
+      "source": "Cisco Security",
+      "title": "Cisco Unified Communications Products Security Hardening Release: October 2026",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-voice-hardening-twgbH9e3?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Unified%20Communications%20Products%20Security%20Hardening%20Release:%20October%202026%26vs_k=1",
+      "description": "<p>As part of Cisco's ongoing commitment to proactive security and product quality, engineering teams for Cisco Emergency Responder, Cisco Prime Collaboration Deployment, Cisco Unified Communications Manager (Unified CM)",
+      "date": "2026-10-27 14:46:44.0"
+    },
+    {
+      "source": "Cisco Security",
+      "title": "Cisco Expressway Series Security Hardening Release: October 2026",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-exwy-hardening-FhcqBVcs?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Expressway%20Series%20Security%20Hardening%20Release:%20October%202026%26vs_k=1",
+      "description": "<p>As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Expressway Series software engineering team has conducted a comprehensive internal security review. This review resulted in a ",
+      "date": "2026-10-27 14:45:16.0"
     },
     {
       "source": "Cisco Security",
@@ -37,53 +58,32 @@
       "date": "2026-10-22 19:03:28.0"
     },
     {
-      "source": "Cisco Security",
-      "title": "Multiple Cisco Products Snort 3 Generic Routing Encapsulation Denial of Service Vulnerability",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snort3-gre-JNpMHrTv?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Multiple%20Cisco%20Products%20Snort%203%20Generic%20Routing%20Encapsulation%20Denial%20of%20Service%20Vulnerability%26vs_k=1",
-      "description": "<p>Multiple Cisco products are affected by a vulnerability in the generic routing encapsulation (GRE) tunnel decapsulation feature of the Snort 3 Detection Engine that could allow an unauthenticated, remote attacker to c",
-      "date": "2026-10-22 19:03:27.0"
-    },
-    {
-      "source": "Cisco Security",
-      "title": "Multiple Cisco Products Snort 3 Denial of Service Vulnerability",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snort3-gtpcodec-dos-Rmecfepz?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Multiple%20Cisco%20Products%20Snort%203%20Denial%20of%20Service%20Vulnerability%26vs_k=1",
-      "description": "<p>Multiple Cisco products are affected by a vulnerability in the Snort 3 Detection Engine that could allow an unauthenticated, remote attacker to cause the detection engine to unexpectedly restart, resulting in a denial",
-      "date": "2026-10-22 19:03:26.0"
-    },
-    {
-      "source": "Cisco Security",
-      "title": "Multiple Cisco Products Snort 3 Visual Basic for Applications Buffer Overflow Denial of Service Vulnerability",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snort3-vba-bufdos-jAuFdvn9?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Multiple%20Cisco%20Products%20Snort%203%20Visual%20Basic%20for%20Applications%20Buffer%20Overflow%20Denial%20of%20Service%20Vulnerability%26vs_k=1",
-      "description": "<p>A vulnerability in the Snort 3 Visual Basic for Applications (VBA) Decompression Engine of multiple Cisco products could allow an unauthenticated, remote attacker to cause the Snort 3 Detection Engine to restart unexp",
-      "date": "2026-10-22 19:03:25.0"
+      "source": "BleepingComputer",
+      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+      "description": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+      "date": "Wed, 28 Oct 2026 08:19:57 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-      "description": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-      "date": "Tue, 27 Oct 2026 06:36:12 -0400"
+      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+      "description": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+      "date": "Wed, 28 Oct 2026 06:46:23 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Energy giant ENGIE discloses data breach affecting customers",
-      "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-      "description": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
-      "date": "Tue, 27 Oct 2026 05:25:50 -0400"
+      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "description": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+      "date": "Wed, 28 Oct 2026 05:43:15 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell  vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursda",
-      "date": "Tue, 27 Oct 2026 04:20:54 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "University of Copenhagen data breach exposes data of 525,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-      "description": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-      "date": "Mon, 26 Oct 2026 18:20:36 -0400"
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "description": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today.",
+      "date": "Tue, 27 Oct 2026 19:35:51 -0400"
     }
   ],
   "sources": [

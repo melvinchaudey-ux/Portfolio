@@ -1,0 +1,102 @@
+/* Épreuve E5 : tableau de synthèse, fiches de réalisations, compléments de parcours et de veille */
+.about-facts{display:grid;gap:14px;margin-top:30px;padding-top:22px;border-top:1px solid #fff1}
+.about-facts small{display:block;font:700 9px "Space Mono",monospace;color:var(--red);letter-spacing:.12em;margin-bottom:6px}
+.about-facts span{color:#c4c6c8;font-size:14px;line-height:1.6}
+
+.exp-missions{margin:24px 0 0;padding:0;list-style:none;display:grid;gap:10px;max-width:610px}
+.exp-missions li{position:relative;padding-left:24px;color:#c4c6c8;font-size:14px;line-height:1.6}
+.exp-missions li:before{content:"";position:absolute;left:0;top:.75em;width:12px;height:2px;background:var(--red)}
+.exp-card .tags{margin-top:34px}
+.exp-extra{max-width:var(--max);margin:55px auto 0}
+.exp-extra-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:#fff1;border:1px solid #fff1}
+.exp-extra-grid>div{background:#141617;padding:24px}
+.exp-extra-grid span{font:9px "Space Mono",monospace;color:var(--red)}
+.exp-extra-grid b{display:block;margin:12px 0 4px;font-size:16px}
+.exp-extra-grid small{display:block;color:#7e8285;font-size:11px}
+.exp-extra-grid p{margin:14px 0 0;color:#909396;font-size:12px;line-height:1.6}
+
+.e5{padding:125px 4vw;background:#0e0f10;position:relative;overflow:hidden}
+.e5:after{content:"E5";position:absolute;right:-1vw;top:35px;font:900 clamp(140px,22vw,340px)/.8 Inter,sans-serif;letter-spacing:-.08em;color:#ffffff04;pointer-events:none}
+.e5 .section-label,.e5-head,.e5-comps,.e5-table-wrap,.e5-note{max-width:var(--max);margin-left:auto;margin-right:auto;position:relative;z-index:1}
+.e5-head{display:grid;grid-template-columns:1fr .65fr;gap:60px;align-items:end;margin-bottom:50px}
+.e5-head h2{font-size:clamp(50px,6vw,92px)}
+.e5-head p{margin:0 0 24px;color:#94979a;line-height:1.8;font-size:14px}
+.e5-comps{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:#fff1;border:1px solid #fff1;margin-bottom:40px}
+.e5-comps article{background:#141617;padding:24px}
+.e5-comps small{font:700 9px "Space Mono",monospace;color:var(--red);letter-spacing:.1em}
+.e5-comps h3{font-size:20px;line-height:1.15;letter-spacing:-.03em;margin:12px 0 12px}
+.e5-comps ul{margin:0;padding-left:16px;color:#85898c;font-size:11px;line-height:1.6}
+.e5-table-wrap{overflow-x:auto;border:1px solid #fff2;background:#121415}
+.e5-table{width:100%;min-width:860px;border-collapse:collapse;font-size:13px}
+.e5-table caption{text-align:left;padding:18px 20px;font:700 9px "Space Mono",monospace;color:#888;letter-spacing:.12em;border-bottom:1px solid #fff2;text-transform:uppercase}
+.e5-table th,.e5-table td{padding:14px 12px;border-bottom:1px solid #ffffff12;text-align:center;vertical-align:middle}
+.e5-table thead th{font:700 9px "Space Mono",monospace;color:#aaa;letter-spacing:.06em;text-transform:uppercase;vertical-align:bottom;background:#17191b}
+.e5-table thead th:first-child,.e5-table tbody th,.e5-table tfoot th{text-align:left}
+.e5-table thead th:first-child{width:32%}
+.e5-table tbody th{font-weight:700;font-size:14px;letter-spacing:-.01em;padding-left:20px}
+.e5-table tbody th small{display:block;margin-top:4px;color:#777;font:400 9px "Space Mono",monospace}
+.e5-table .e5-group th{padding:12px 20px;background:#1b1d1f;color:var(--red);font:700 9px "Space Mono",monospace;letter-spacing:.1em;text-transform:uppercase}
+.e5-table .e5-period{font:10px "Space Mono",monospace;color:#999;white-space:nowrap}
+.e5-table td.on{color:var(--red);font-size:16px}
+.e5-table tr[data-open]{cursor:pointer;transition:background .2s}
+.e5-table tr[data-open]:hover,.e5-table tr[data-open]:focus-visible{background:#e306130f;outline:none}
+.e5-table tr[data-open]:focus-visible th{box-shadow:inset 3px 0 0 var(--red)}
+.e5-table tfoot th,.e5-table tfoot td{border-bottom:0;background:#17191b;font:700 10px "Space Mono",monospace;color:#ddd;padding-left:20px}
+.e5-note{margin-top:16px;color:#6f7376;font:9px/1.6 "Space Mono",monospace}
+
+.card-comps{display:flex;flex-wrap:wrap;gap:6px;margin-top:16px}
+.card-comps span{padding:6px 8px;border:1px solid #e3061355;color:#e8e8e8;background:#e306130d;font:8px "Space Mono",monospace;letter-spacing:.04em}
+.card-comps:empty{display:none}
+.real-grid{max-width:var(--max);margin:70px auto 0;display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.real-card{display:flex;flex-direction:column;padding:28px;background:#141617;border:1px solid #fff1;transition:.25s;min-height:300px}
+.real-card:hover,.real-card:focus-visible{transform:translateY(-4px);border-color:#e3061366;outline:none}
+.real-card>small{color:#777;font:9px "Space Mono",monospace;letter-spacing:.06em}
+.real-card h3{font-size:32px;line-height:.95;letter-spacing:-.06em;margin:16px 0 14px}
+.real-card h3 em{font-style:normal;color:var(--red)}
+.real-card p{margin:0;color:#8f9295;font-size:13px;line-height:1.65}
+.real-place{display:block;margin-top:14px;color:#6d7174;font:9px "Space Mono",monospace}
+.real-open{margin-top:auto;padding-top:20px;color:var(--red);font:700 9px "Space Mono",monospace;letter-spacing:.08em}
+.project-card[data-project]:focus-visible{outline:2px solid var(--red);outline-offset:6px}
+
+.modal-comps{margin-top:28px}
+.modal-comps:empty{display:none}
+.modal-comps small{font:700 9px "Space Mono",monospace;color:#777;letter-spacing:.1em}
+.modal-comps div{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.modal-comps span{padding:9px 12px;border:1px solid #e3061366;background:#e306130f;font-size:12px;color:#eee}
+.project-modal-box .modal-brief-grid{grid-template-columns:repeat(2,1fr)}
+.project-modal-box h2 em{font-style:normal;color:var(--red)}
+.modal-grid>div[hidden]{display:none}
+.modal-kicker{padding-right:56px;line-height:1.6}
+.modal-brief-card:last-child:nth-child(odd){grid-column:1/-1}
+#modalVisual .club-browser{transform:none;height:360px;margin-top:28px;border:1px solid #ffffff12}
+.e5-scroll-hint{display:none;max-width:var(--max);margin:12px auto 0;color:#8a8d90;font:9px "Space Mono",monospace}
+.modal-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:32px}
+.modal-actions:empty{display:none}
+
+.veille-method{max-width:var(--max);margin:0 auto 30px;display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:#fff2;border:1px solid #fff1}
+.veille-method>div{background:#17191b;padding:22px}
+.veille-method small{font:700 8px "Space Mono",monospace;color:var(--red);letter-spacing:.1em}
+.veille-method b{display:block;margin:10px 0 6px;font-size:15px;letter-spacing:-.02em}
+.veille-method p{margin:0;color:#85898c;font-size:12px;line-height:1.6}
+
+.contact-row>div a{white-space:nowrap}
+
+@media(max-width:1100px){.nav nav{gap:22px}}
+@media(max-width:900px){
+  .e5-head{grid-template-columns:1fr;gap:25px}
+  .e5-comps,.real-grid{grid-template-columns:1fr 1fr}
+  .exp-extra-grid,.veille-method{grid-template-columns:1fr 1fr}
+  .project-modal-box .modal-brief-grid{grid-template-columns:1fr}
+}
+@media(max-width:900px){.menu{margin-left:auto}}
+@media(max-width:600px){
+  .e5{padding:90px 20px}
+  .e5-comps,.real-grid,.exp-extra-grid,.veille-method{grid-template-columns:1fr}
+  .real-card h3{font-size:28px}
+  .e5-scroll-hint{display:block}
+  #modalVisual .club-browser{height:300px}
+  #modalVisual .club-app-body{grid-template-columns:1fr}
+  #modalVisual .club-app-body aside{display:none}
+  .contact h2{font-size:48px}
+  .veille-section,.formation{padding:90px 20px}
+}

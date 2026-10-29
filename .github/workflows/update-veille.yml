@@ -24,29 +24,34 @@ jobs:
       - name: Construire le flux
         run: |
           python - <<'PY'
+          import html
           import json
+          import re
           import urllib.request
           import xml.etree.ElementTree as ET
           from datetime import datetime, timezone
 
           feeds = [
               ("Cisco Security", "https://sec.cloudapps.cisco.com/security/center/psirtrss20/CiscoSecurityAdvisory.xml"),
-              ("BleepingComputer", "https://www.bleepingcomputer.com/feed/")
+              ("BleepingComputer", "https://www.bleepingcomputer.com/feed/"),
+              ("Microsoft Security", "https://www.microsoft.com/en-us/security/blog/feed/")
           ]
-          articles = []
+          per_source = []
 
           for source, url in feeds:
+              items = []
               try:
                   req = urllib.request.Request(url, headers={"User-Agent": "Portfolio-Veille/1.0"})
                   raw = urllib.request.urlopen(req, timeout=20).read()
                   root = ET.fromstring(raw)
-                  for item in root.findall(".//item")[:8]:
+                  for item in root.findall(".//item")[:4]:
                       title = (item.findtext("title") or "").strip()
                       link = (item.findtext("link") or "").strip()
-                      desc = (item.findtext("description") or "").strip()
+                      desc = html.unescape(re.sub(r"<[^>]+>", " ", item.findtext("description") or ""))
+                      desc = re.sub(r"\s+", " ", desc).strip()
                       pub = (item.findtext("pubDate") or "").strip()
                       if title and link:
-                          articles.append({
+                          items.append({
                               "source": source,
                               "title": title,
                               "link": link,
@@ -55,6 +60,10 @@ jobs:
                           })
               except Exception as exc:
                   print(f"{source}: {exc}")
+              per_source.append(items)
+
+          # Alternance des sources pour une veille diversifiée
+          articles = [a for group in zip(*[g + [None] * (4 - len(g)) for g in per_source]) for a in group if a]
 
           payload = {
               "updated_at": datetime.now(timezone.utc).isoformat(),

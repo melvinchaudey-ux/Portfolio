@@ -100,3 +100,7 @@
   .contact h2{font-size:48px}
   .veille-section,.formation{padding:90px 20px}
 }
+
+/* Accueil : la hauteur suit le contenu pour ne jamais couper les chiffres clés sur les écrans peu hauts ou zoomés */
+.hero{height:auto;min-height:max(100vh,720px)}
+.hero-wrap{padding-bottom:110px}

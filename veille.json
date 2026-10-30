@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-10-29T13:10:11.292265+00:00",
+  "updated_at": "2026-10-30T13:01:52.555330+00:00",
   "articles": [
+    {
+      "source": "Cisco Security",
+      "title": "Cisco Finesse Server-Side Request Forgery Vulnerability",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-finesse-ssrf-mmSuyugS?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Finesse%20Server-Side%20Request%20Forgery%20Vulnerability%26vs_k=1",
+      "description": "A vulnerability in the web-based management interface of Cisco Finesse could allow an unauthenticated, remote attacker to conduct server-side request forgery (SSRF) attacks through an affected device. This vulnerability ",
+      "date": "2026-10-29 21:22:28.0"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA says max severity GitLab flaw now exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+      "description": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "date": "Fri, 30 Oct 2026 09:00:32 -0400"
+    },
+    {
+      "source": "Microsoft Security",
+      "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
+      "description": "As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying ",
+      "date": "Thu, 29 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "source": "Cisco Security",
+      "title": "Vulnerabilities in Node.js Affecting Cisco Products: October 2026",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-oct2026-node-js-Jj3SQ19u?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Vulnerabilities%20in%20Node.js%20Affecting%20Cisco%20Products:%20October%202026%26vs_k=1",
+      "description": "On October 21, 2026, Node.js announced the availability of fixes for multiple vulnerabilities across the following supported release lines: 22.x, 24.x, and 26.x. These vulnerabilities impact critical operations such as t",
+      "date": "2026-10-29 20:24:20.0"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft finally fixes VPN issues caused by September updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+      "description": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+      "date": "Fri, 30 Oct 2026 07:20:26 -0400"
+    },
+    {
+      "source": "Microsoft Security",
+      "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
+      "description": "IDC has named Microsoft a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises. The post IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for En",
+      "date": "Thu, 29 Oct 2026 16:00:00 +0000"
+    },
     {
       "source": "Cisco Security",
       "title": "Cisco Catalyst SD-WAN Controller Authentication Bypass Vulnerability",
@@ -10,10 +52,10 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-      "description": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
-      "date": "Thu, 29 Oct 2026 08:00:07 -0400"
+      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+      "description": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+      "date": "Fri, 30 Oct 2026 06:16:07 -0400"
     },
     {
       "source": "Microsoft Security",
@@ -24,27 +66,6 @@
     },
     {
       "source": "Cisco Security",
-      "title": "Vulnerabilities in Node.js Affecting Cisco Products: October 2026",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-oct2026-node-js-Jj3SQ19u?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Vulnerabilities%20in%20Node.js%20Affecting%20Cisco%20Products:%20October%202026%26vs_k=1",
-      "description": "On October 21, 2026, Node.js announced the availability of fixes for multiple vulnerabilities across the following supported release lines: 22.x, 24.x, and 26.x. These vulnerabilities impact critical operations such as t",
-      "date": "2026-10-28 20:36:45.0"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "description": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [.",
-      "date": "Thu, 29 Oct 2026 07:10:13 -0400"
-    },
-    {
-      "source": "Microsoft Security",
-      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
-      "description": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain ",
-      "date": "Fri, 23 Oct 2026 18:12:19 +0000"
-    },
-    {
-      "source": "Cisco Security",
       "title": "Cisco Informational for Emergency Distrust of eMudhra Root and Intermediate Certificate Authorities",
       "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-emudhra-info-ScS22A1r?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Informational%20for%20Emergency%20Distrust%20of%20eMudhra%20Root%20and%20Intermediate%20Certificate%20Authorities%26vs_k=1",
       "description": "Between October 17 and October 20, 2026, a critical security compromise involving Certificate Authorities that are managed by eMudhra was uncovered. A security researcher demonstrated that the private keys for eight eMud",
@@ -52,38 +73,17 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "description": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-      "date": "Wed, 28 Oct 2026 16:47:22 -0400"
+      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+      "description": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+      "date": "Fri, 30 Oct 2026 05:18:13 -0400"
     },
     {
       "source": "Microsoft Security",
-      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-      "description": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using A",
-      "date": "Wed, 21 Oct 2026 18:23:55 +0000"
-    },
-    {
-      "source": "Cisco Security",
-      "title": "Cisco Secure Firewall Adaptive Security Appliance and Secure Firewall Threat Defense Software Remote Access SSL VPN Tunnel Denial of Service Vulnerability",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-tunnel-dos-s6mgkb75?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Secure%20Firewall%20Adaptive%20Security%20Appliance%20and%20Secure%20Firewall%20Threat%20Defense%20Software%20Remote%20Access%20SSL%20VPN%20Tunnel%20Denial%20of%20Service%20Vulnerability%26vs_k=1",
-      "description": "A vulnerability in the Remote Access SSL VPN service of Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software could allow an unauthenticated, remote atta",
-      "date": "2026-10-28 19:15:00.0"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Discord to let search engines index public server messages",
-      "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-      "description": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
-      "date": "Wed, 28 Oct 2026 14:44:16 -0400"
-    },
-    {
-      "source": "Microsoft Security",
-      "title": "Agents are your newest insiders. Security must move at their speed.",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
-      "description": "New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously. The post Agents are your newest insiders. Security must move at their speed. appeared f",
-      "date": "Mon, 19 Oct 2026 13:00:00 +0000"
+      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
+      "description": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain ",
+      "date": "Fri, 23 Oct 2026 18:12:19 +0000"
     }
   ],
   "sources": [

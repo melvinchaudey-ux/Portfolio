@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T12:37:44.124026+00:00",
+  "updated_at": "2026-11-01T13:29:36.832930+00:00",
   "articles": [
     {
       "source": "Cisco Security",
@@ -10,10 +10,10 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-      "description": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) li",
-      "date": "Fri, 30 Oct 2026 17:09:46 -0400"
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "description": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+      "date": "Sat, 31 Oct 2026 14:01:12 -0400"
     },
     {
       "source": "Microsoft Security",
@@ -31,10 +31,10 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-      "description": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
-      "date": "Fri, 30 Oct 2026 11:58:20 -0400"
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "description": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or cr",
+      "date": "Sat, 31 Oct 2026 11:35:11 -0400"
     },
     {
       "source": "Microsoft Security",
@@ -52,10 +52,10 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "description": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to ins",
-      "date": "Fri, 30 Oct 2026 10:36:54 -0400"
+      "title": "Reddit to lock content behind logins to fight scrapers",
+      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "description": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+      "date": "Sat, 31 Oct 2026 10:05:15 -0400"
     },
     {
       "source": "Microsoft Security",
@@ -73,10 +73,10 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "description": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how th",
-      "date": "Fri, 30 Oct 2026 10:00:10 -0400"
+      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+      "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "description": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity ",
+      "date": "Sat, 31 Oct 2026 09:10:19 -0400"
     },
     {
       "source": "Microsoft Security",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T13:29:29.055031+00:00",
+  "updated_at": "2026-11-09T16:26:52.450404+00:00",
   "articles": [
     {
       "source": "Cisco Security",
@@ -10,10 +10,10 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers pull off $133 million French bank heist via service provider",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-      "description": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
-      "date": "Sat, 07 Nov 2026 10:25:35 -0500"
+      "title": "Binance denies data breach after alleged ShinyHunters claims",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "description": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+      "date": "Mon, 09 Nov 2026 11:12:39 -0500"
     },
     {
       "source": "Microsoft Security",
@@ -31,10 +31,10 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-      "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-      "description": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use decepti",
-      "date": "Sat, 07 Nov 2026 09:10:19 -0500"
+      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "description": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+      "date": "Mon, 09 Nov 2026 11:04:57 -0500"
     },
     {
       "source": "Microsoft Security",
@@ -52,10 +52,10 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-      "description": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-      "date": "Fri, 06 Nov 2026 19:00:55 -0500"
+      "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+      "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+      "description": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace",
+      "date": "Mon, 09 Nov 2026 10:05:15 -0500"
     },
     {
       "source": "Microsoft Security",
@@ -73,10 +73,10 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-      "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-      "description": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and uninten",
-      "date": "Fri, 06 Nov 2026 17:27:25 -0500"
+      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+      "description": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+      "date": "Mon, 09 Nov 2026 09:34:03 -0500"
     },
     {
       "source": "Microsoft Security",

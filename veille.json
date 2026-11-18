@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-11-17T16:05:00.769679+00:00",
+  "updated_at": "2026-11-18T15:43:29.903470+00:00",
   "articles": [
+    {
+      "source": "Cisco Security",
+      "title": "Vulnerabilities in Node.js and Brotli Affecting Cisco Products: October 2026",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-oct2026-node-js-Jj3SQ19u?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Vulnerabilities%20in%20Node.js%20and%20Brotli%20Affecting%20Cisco%20Products:%20October%202026%26vs_k=1",
+      "description": "On October 21, 2026, Node.js announced the availability of fixes for multiple vulnerabilities across the following supported release lines: 22.x, 24.x, and 26.x. These vulnerabilities impact critical operations such as t",
+      "date": "2026-11-17 23:53:12.0"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "description": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how st",
+      "date": "Wed, 18 Nov 2026 10:00:10 -0500"
+    },
+    {
+      "source": "Microsoft Security",
+      "title": "Security for the agentic era, powered by Microsoft Perception",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/",
+      "description": "Read about updates to Microsoft Perception and the new Microsoft Security cyber stack to defend against threats, secure agents, and protect your digital estate. The post Security for the agentic era, powered by Microsoft",
+      "date": "Tue, 17 Nov 2026 18:14:00 +0000"
+    },
     {
       "source": "Cisco Security",
       "title": "Cisco Informational for Emergency Distrust of eMudhra Root and Intermediate Certificate Authorities",
@@ -10,38 +31,17 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-      "description": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
-      "date": "Tue, 17 Nov 2026 10:01:11 -0500"
+      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+      "description": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+      "date": "Wed, 18 Nov 2026 06:50:25 -0500"
     },
     {
       "source": "Microsoft Security",
-      "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
-      "description": "Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide. The post High volume phishing campaign uses Micros",
-      "date": "Tue, 17 Nov 2026 00:08:41 +0000"
-    },
-    {
-      "source": "Cisco Security",
-      "title": "Vulnerabilities in Node.js and Brotli Affecting Cisco Products: October 2026",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-oct2026-node-js-Jj3SQ19u?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Vulnerabilities%20in%20Node.js%20and%20Brotli%20Affecting%20Cisco%20Products:%20October%202026%26vs_k=1",
-      "description": "On October 21, 2026, Node.js announced the availability of fixes for multiple vulnerabilities across the following supported release lines: 22.x, 24.x, and 26.x. These vulnerabilities impact critical operations such as t",
-      "date": "2026-11-13 20:41:37.0"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-      "description": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-      "date": "Tue, 17 Nov 2026 06:19:51 -0500"
-    },
-    {
-      "source": "Microsoft Security",
-      "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/",
-      "description": "SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting. The post SCKit abuses ScreenConnect to deploy remote acce",
-      "date": "Fri, 13 Nov 2026 21:31:44 +0000"
+      "title": "The risks of device code authentication for AI coding agents",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
+      "description": "Lab research shows how device code phishing, a technique that applies to any device-flow client, can extend to AI coding agents, using GitHub Copilot CLI as an illustrative example. The post The risks of device code auth",
+      "date": "Tue, 17 Nov 2026 15:00:00 +0000"
     },
     {
       "source": "Cisco Security",
@@ -52,17 +52,17 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-      "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-      "description": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
-      "date": "Tue, 17 Nov 2026 04:44:22 -0500"
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "description": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+      "date": "Wed, 18 Nov 2026 05:35:05 -0500"
     },
     {
       "source": "Microsoft Security",
-      "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
-      "description": "Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities. The post Trained to betray: How post-training",
-      "date": "Thu, 12 Nov 2026 17:00:00 +0000"
+      "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
+      "description": "Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide. The post High volume phishing campaign uses Micros",
+      "date": "Tue, 17 Nov 2026 00:08:41 +0000"
     },
     {
       "source": "Cisco Security",
@@ -73,17 +73,17 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-      "description": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-      "date": "Tue, 17 Nov 2026 03:35:42 -0500"
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "description": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+      "date": "Wed, 18 Nov 2026 04:24:31 -0500"
     },
     {
       "source": "Microsoft Security",
-      "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
-      "description": "Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity. The post The gl",
-      "date": "Wed, 11 Nov 2026 19:49:57 +0000"
+      "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/",
+      "description": "SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting. The post SCKit abuses ScreenConnect to deploy remote acce",
+      "date": "Fri, 13 Nov 2026 21:31:44 +0000"
     }
   ],
   "sources": [

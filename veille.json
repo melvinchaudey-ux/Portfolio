@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-19T15:48:20.898344+00:00",
+  "updated_at": "2026-11-20T15:32:40.207432+00:00",
   "articles": [
     {
       "source": "Cisco Security",
-      "title": "Vulnerability in Oracle OpenJDK (Java4Shell) Affecting Cisco Products: November 2026",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nov2026-java-rce-eCa6ss9z?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Vulnerability%20in%20Oracle%20OpenJDK%20(Java4Shell)%20Affecting%20Cisco%20Products:%20November%202026%26vs_k=1",
-      "description": "On November 17, 2026, Oracle announced the availability of fixes for a vulnerability in OpenJDK that could lead to remote code execution identified by CVE-2026-114938. The vulnerability affects OpenJDK Java 17.0.6 and la",
-      "date": "2026-11-18 21:16:38.0"
+      "title": "Cisco Informational for Emergency Distrust of eMudhra Root and Intermediate Certificate Authorities",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-emudhra-info-ScS22A1r?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Informational%20for%20Emergency%20Distrust%20of%20eMudhra%20Root%20and%20Intermediate%20Certificate%20Authorities%26vs_k=1",
+      "description": "Between October 17 and October 20, 2026, a critical security compromise involving Certificate Authorities that are managed by eMudhra was uncovered. A security researcher demonstrated that the private keys for eight eMud",
+      "date": "2026-11-20 15:13:54.0"
     },
     {
       "source": "BleepingComputer",
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "description": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions ",
-      "date": "Thu, 19 Nov 2026 10:00:10 -0500"
+      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "description": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management",
+      "date": "Fri, 20 Nov 2026 10:00:10 -0500"
     },
     {
       "source": "Microsoft Security",
@@ -24,17 +24,17 @@
     },
     {
       "source": "Cisco Security",
-      "title": "ClamAV Vulnerabilities Affecting Cisco Products: November 2026",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-multi-e93M3vdA?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=ClamAV%20Vulnerabilities%20Affecting%20Cisco%20Products:%20November%202026%26vs_k=1",
-      "description": "Multiple vulnerabilities in ClamAV could allow a remote attacker to bypass configured file and scan time limits and cause a denial of service (DoS) condition, interrupting scanning operations. For more information about ",
-      "date": "2026-11-18 16:00:00.0"
+      "title": "Vulnerability in Oracle OpenJDK (Java4Shell) Affecting Cisco Products: November 2026",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nov2026-java-rce-eCa6ss9z?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Vulnerability%20in%20Oracle%20OpenJDK%20(Java4Shell)%20Affecting%20Cisco%20Products:%20November%202026%26vs_k=1",
+      "description": "On November 17, 2026, Oracle announced the availability of fixes for a vulnerability in OpenJDK that could lead to remote code execution identified by CVE-2026-114938. The vulnerability affects OpenJDK Java 17.0.6 and la",
+      "date": "2026-11-19 20:22:53.0"
     },
     {
       "source": "BleepingComputer",
-      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "description": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel b",
-      "date": "Thu, 19 Nov 2026 09:57:24 -0500"
+      "title": "N-able says recent security breach led to major service outage",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "description": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+      "date": "Fri, 20 Nov 2026 08:18:36 -0500"
     },
     {
       "source": "Microsoft Security",
@@ -45,17 +45,17 @@
     },
     {
       "source": "Cisco Security",
-      "title": "Vulnerabilities in Node.js and Brotli Affecting Cisco Products: October 2026",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-oct2026-node-js-Jj3SQ19u?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Vulnerabilities%20in%20Node.js%20and%20Brotli%20Affecting%20Cisco%20Products:%20October%202026%26vs_k=1",
-      "description": "On October 21, 2026, Node.js announced the availability of fixes for multiple vulnerabilities across the following supported release lines: 22.x, 24.x, and 26.x. These vulnerabilities impact critical operations such as t",
-      "date": "2026-11-17 23:53:12.0"
+      "title": "ClamAV Vulnerabilities Affecting Cisco Products: November 2026",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-multi-e93M3vdA?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=ClamAV%20Vulnerabilities%20Affecting%20Cisco%20Products:%20November%202026%26vs_k=1",
+      "description": "Multiple vulnerabilities in ClamAV could allow a remote attacker to bypass configured file and scan time limits and cause a denial of service (DoS) condition, interrupting scanning operations. For more information about ",
+      "date": "2026-11-18 16:00:00.0"
     },
     {
       "source": "BleepingComputer",
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "description": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-      "date": "Thu, 19 Nov 2026 08:08:08 -0500"
+      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+      "description": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+      "date": "Fri, 20 Nov 2026 07:14:28 -0500"
     },
     {
       "source": "Microsoft Security",
@@ -66,17 +66,17 @@
     },
     {
       "source": "Cisco Security",
-      "title": "Cisco Informational for Emergency Distrust of eMudhra Root and Intermediate Certificate Authorities",
-      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-emudhra-info-ScS22A1r?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Informational%20for%20Emergency%20Distrust%20of%20eMudhra%20Root%20and%20Intermediate%20Certificate%20Authorities%26vs_k=1",
-      "description": "Between October 17 and October 20, 2026, a critical security compromise involving Certificate Authorities that are managed by eMudhra was uncovered. A security researcher demonstrated that the private keys for eight eMud",
-      "date": "2026-11-16 22:25:32.0"
+      "title": "Vulnerabilities in Node.js and Brotli Affecting Cisco Products: October 2026",
+      "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-oct2026-node-js-Jj3SQ19u?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Vulnerabilities%20in%20Node.js%20and%20Brotli%20Affecting%20Cisco%20Products:%20October%202026%26vs_k=1",
+      "description": "On October 21, 2026, Node.js announced the availability of fixes for multiple vulnerabilities across the following supported release lines: 22.x, 24.x, and 26.x. These vulnerabilities impact critical operations such as t",
+      "date": "2026-11-17 23:53:12.0"
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-      "description": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-      "date": "Thu, 19 Nov 2026 06:46:00 -0500"
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "description": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+      "date": "Fri, 20 Nov 2026 05:57:43 -0500"
     },
     {
       "source": "Microsoft Security",

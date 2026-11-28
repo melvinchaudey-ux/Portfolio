@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-27T16:43:24.659014+00:00",
+  "updated_at": "2026-11-28T15:35:55.249113+00:00",
   "articles": [
     {
       "source": "Cisco Security",
       "title": "Vulnerabilities in nginx Affecting Cisco Products: November 2026",
       "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nginx-nov-2026-e8jska2s?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Vulnerabilities%20in%20nginx%20Affecting%20Cisco%20Products:%20November%202026%26vs_k=1",
       "description": "On November 18, 2026, nginx announced the availability of a fix for multiple critical vulnerabilities in nginx that could lead to remote code execution. These vulnerabilities affect nginx releases 1.9.5 through 1.31.8 an",
-      "date": "2026-11-26 01:48:13.0"
+      "date": "2026-11-27 20:04:26.0"
     },
     {
       "source": "BleepingComputer",
-      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
-      "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
-      "description": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
-      "date": "Fri, 27 Nov 2026 10:09:40 -0500"
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "description": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+      "date": "Fri, 27 Nov 2026 14:26:04 -0500"
     },
     {
       "source": "Microsoft Security",
@@ -31,10 +31,10 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
-      "link": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
-      "description": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and",
-      "date": "Fri, 27 Nov 2026 10:00:10 -0500"
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "description": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+      "date": "Fri, 27 Nov 2026 13:57:42 -0500"
     },
     {
       "source": "Microsoft Security",
@@ -52,10 +52,10 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
-      "description": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection",
-      "date": "Fri, 27 Nov 2026 09:22:06 -0500"
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "description": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
+      "date": "Fri, 27 Nov 2026 12:06:13 -0500"
     },
     {
       "source": "Microsoft Security",
@@ -73,10 +73,10 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft removes WSUS server role in Windows Server 2028",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
-      "description": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
-      "date": "Fri, 27 Nov 2026 06:18:36 -0500"
+      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+      "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+      "description": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+      "date": "Fri, 27 Nov 2026 10:09:40 -0500"
     },
     {
       "source": "Microsoft Security",
